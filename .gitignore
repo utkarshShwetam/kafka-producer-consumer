@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELP.md
 mvnw
 mvnw.cmd
@@ -52,6 +53,8 @@ gradle-app.setting
 # Cache of project
 .gradletasknamecache
 
+=======
+>>>>>>> 79d9c922490a0c0667c1d86f00641d670901e982
 # Compiled class file
 *.class
 
